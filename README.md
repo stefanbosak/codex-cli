@@ -43,9 +43,9 @@ This repository provides a fully automated preparation of  <span style="color: #
 
 - 📖 [Official Documentation](https://docs.OpenAI.com/cli/overview)
 - 📖 [AI models database](https://models.dev)
-- 🤖 **Supported AI Models**: GPT 5.4
+- 🤖 **Supported AI Models**: GPT 5.5
   - **Recommended models**:
-    - <span style="color: #a371f7;">**OpenAI GPT 5.4**</span> - [Documentation](https://openai.com/index/introducing-gpt-5-4/): Low, Medium, High, Extra High
+    - <span style="color: #a371f7;">**OpenAI GPT 5.5**</span> - [Documentation](https://openai.com/index/introducing-gpt-5-5/)
   - **Effective Prompting**:
     - Save output to prevent data loss (reduce costs)
     - Iteratively processing excessively long messages (drop error rate ~<10%)

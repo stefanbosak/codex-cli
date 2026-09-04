@@ -18,7 +18,7 @@ on:
         description: 'CODEX_CLI_VERSION'
         required: false
         type: string
-        default: 'rust-v0.154.0-alpha.3'
+        default: 'rust-v0.153.2'
       CONTAINER_TAG:
         description: 'CONTAINER_TAG (text)'
         required: false

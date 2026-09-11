@@ -17,9 +17,9 @@
 <!-- VERSION_INFO_START -->
 | Component | Version |
 |-----------|---------|
-| **OpenAI codex CLI** | [`0.155.0-alpha.3`](https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.3) |
+| **OpenAI codex CLI** | [`0.155.0-alpha.3.7`](https://github.com/openai/codex/releases/tag/rust-v0.155.0-alpha.3.7) |
 
-> 🔄 Last updated: 2026-09-11T04:33:37Z · [Build #387](https://github.com/stefanbosak/codex-cli/actions/runs/34562362902)
+> 🔄 Last updated: 2026-09-11T08:37:15Z · [Build #388](https://github.com/stefanbosak/codex-cli/actions/runs/34579685851)
 <!-- VERSION_INFO_END -->
 
 ---
